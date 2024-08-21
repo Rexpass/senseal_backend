@@ -1,0 +1,15 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "releaseDate": "1925-04-10",
+      "coverImageUrl": "https://example.com/great-gatsby.jpg"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "releaseDate": "1960-07-11",
+      "coverImageUrl": "https://example.com/to-kill-a-mockingbird.jpg"
+    }
+  ]
+  
